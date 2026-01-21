@@ -21,7 +21,7 @@ class script(object):
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
 <b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
+<b>🧑‍💻 Developer :</b> <a href='@Sreehari_Pradeep'>sreehari</a>
 
 <b>♻️ Bot Made By :</b> @Madflix_Bots"""
 
